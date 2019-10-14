@@ -1,0 +1,2 @@
+fecfile >= 0.6.3
+-e git+git://github.com/esonderegger/pyopenfec@master#egg=pyopenfec
